@@ -12,15 +12,15 @@
 #
 <h2><b><i>PASSWORD CRACKER</h2></b></i>
 
-![Alt text](screenshots/name.png)
+![Alt text](screenshots/Title.png)
 #
+![Alt text](screenshots/demo.png)
 #
 <h1><b>What Is Password cracker Tool ?</h1></b>
 <h2>This tool is for hacking things.This tool is underdevelopment and this tool created by Hacker-KD discord username - Gamingkd </h2><br>
-<img src=""><br>
 
 
-<img src='' height='280px' width='300px'><br>
+<img src="screenshots/Logo.png" height='280px' width='300px'><br>
 
 
 #
@@ -34,7 +34,7 @@ sudo apt install python
 sudo apt install git
 
 # Clone Project
-git clone https://github.com/IQman-KRhero/IQkit
+git clone https://github.com/HackerKD-GHOST/Password-Cracker.git
 
 # Change Directory
 cd Password_cracker
